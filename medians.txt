@@ -1,0 +1,15 @@
+[median: XAHHy]	UwmKD, WLSoS, WjCIw, XAHHy, XDlST, XfJOm, YAsaw,
+[median: XAHHy]	       WLSoS, WjCIw, XAHHy, XDlST, XfJOm,
+[size 7, pos 1]	UwmKD
+[size12, pos11]	XAHHy // works
+[size 5, pos 3]	XDlST
+
+
+
+[median: 27]	24, 25, 27, 29, 30,
+[size 7, pos 1]	27 // works
+[size12, pos11]	27 // works
+[size 5, pos 3]	27 // works
+
+17 - part
+18 - pivot_rank = part+1
